@@ -1,0 +1,7 @@
+# Plan 
+
+### dataset from mongoDB
+
+### transform dataset to RDF
+
+### import RDF into neo4j
