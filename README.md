@@ -1,5 +1,13 @@
 # neosemantics
 
+# Plan for use it
+
+### dataset from mongoDB
+
+### transform dataset into RDF
+
+### import RDF into neo4j
+
 ## Installation
  
 You can either download a prebuilt jar from the [releases area](https://github.com/jbarrasa/neosemantics/releases) or build it from the source. If you prefer to build, check the note below.
